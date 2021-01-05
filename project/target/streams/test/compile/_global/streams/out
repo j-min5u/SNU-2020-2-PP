@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/mnt/c/Users/icycl/Documents/GitHub/pp202002-private/project/src/test/scala/InterpreterTest.scala:14:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Failure((x: Throwable forSome x not in org.parboiled2.ParseError))[0m
+[0m[[0m[33mwarn[0m] [0m[0m    result match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

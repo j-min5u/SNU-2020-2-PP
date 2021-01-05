@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mInterpreterTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic compare[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return right 0 or left 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic let[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic def[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic let*[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic def*[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic lazy val*[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic product type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return (4 . 1)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic sum type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return ((left 1) . (right 2))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic recursion[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFibonacci(10)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 55[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mnthPrime[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return nth-prime[0m[0m
